@@ -132,7 +132,7 @@ h1 {
   font-size: 1rem;
 }
 
-footer {
+footer .container{
   background-color: azure;
   height: 9.5rem;
 }
